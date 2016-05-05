@@ -80,6 +80,9 @@ header img {
   display: block;
   margin: 0 auto 20px;
 }
+#topText:hover{
+    color:#E91D0E;
+}
 .btn{
 background-color: #E91D0E;
 }
@@ -99,9 +102,19 @@ height: 11em;
     text-align: center;
 
 }
-
+.paypal{
+    border:none;
+}
 .vote{
 height: 12em;
+}
+#donate1{
+    color: #E91D0E
+
+}
+#donate1:hover{
+    color: white;
+
 }
 .img-resp{
     height: 20em;
