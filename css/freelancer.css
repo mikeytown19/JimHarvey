@@ -116,6 +116,12 @@ height: 12em;
     color: white;
 
 }
+.clickToEnlarge{
+    margin-bottom: 3vh;
+    color: #E91D0E;
+    font-weight: 100;
+    font-size: 2vh;
+}
 .img-resp{
     height: 20em;
     border-radius: 50%;
